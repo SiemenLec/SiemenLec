@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SiemenLec
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning JavaScript
 
 
 <!---
